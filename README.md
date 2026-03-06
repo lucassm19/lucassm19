@@ -1,7 +1,6 @@
 - 👋 Meu nome é Lucas
 - 👀 Gosto de animes e jogos
-- 🌱 Estou terminando o Curso de ADS
-- 💞️ Estou namorando atualmente 🙏
+- 🌱 Formado em ADS
 
 <!---
 lucassm19/lucassm19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
